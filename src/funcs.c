@@ -5,3 +5,8 @@ int funcs()
 {
 printf("hello");
 }
+
+int koo()
+{
+return 0;
+}
